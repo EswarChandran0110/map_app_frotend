@@ -1,0 +1,27 @@
+/* /* App.css */
+.app {
+  text-align: center;
+}
+
+.map-container {
+  width: 800px;
+  height: 600px;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+}
+
+.selected-location {
+  margin: 20px auto;
+  width: 400px;
+}
+
+.captured-image {
+  margin: 20px auto;
+  width: 400px;
+}
+
+.captured-image img {
+  display: block;
+  margin: 10px auto;
+  max-width: 100%;
+}
